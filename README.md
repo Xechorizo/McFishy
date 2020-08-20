@@ -16,26 +16,26 @@
 - Open the script in a text editor, and change the paths for **Capture2Text.exe** and **ocr.txt**. Variable names are **FullC2TPath** and **FullOCRPath**.
 
 ### How do I use it?
-- Open Minecraft 1.16.2 or later.
-- Ensure Subtitles are on (Options... Accessibility Settings... Show Subtitles: ON).
-- Run the McFishy script. A sound plays when McFishy starts.
-- Click on Minecraft so it's the active window.
-- Cast your rod.
+- Open **Minecraft 1.16.2** or later.
+- Ensure **Subtitles** are on (Options... Accessibility Settings... Show Subtitles: ON).
+- Run the **McFishy** script. A sound plays when **McFishy** starts.
+- Click on **Minecraft** so it's the active window.
+- **Cast** your rod.
 - Press **ALT SHIFT F** to start OCR. Drag a box around the subtitles area. A sound plays when OCR starts.
 - **IMPORTANT!** The box must be big enough for the subtitle "**Fishing Bobber splashes**" on any line.
 - **IMPORTANT!** The box must not be *too* big, or OCR will be slow and fish can get away.
-- Right-click sends to Minecraft when OCR reads "**Fish**" in the OCR box, and again after 4.5 seconds to recast.
+- Right-click sends to **Minecraft** when OCR reads "**Fish**" in the OCR box, and again after 4.5 seconds to recast.
 - **IMPORTANT!** Subtitles must be visible. Other windows or screensavers covering subtitles will make OCR fail.
 - Press **ALT SHIFT Q** to stop OCR. A sound plays when OCR stops. Sart again with **ALT SHIFT F** if desired.
-- Press **ALT SHIFT X** to exit McFishy. A sound plays when McFishy exits.
+- Press **ALT SHIFT X** to exit **McFishy**. A sound plays when **McFishy** exits.
 
 ### How does it work?
-- AutoHotKey listens for hotkeys.
+- **AutoHotKey** listens for hotkeys.
 - Pressing **ALT SHIFT F** runs **Capture2Text.exe**.
 - **Capture2Text.exe** reads text in the dragged box.
-- **Capture2Text.exe** writes the text to ocr.txt.
+- **Capture2Text.exe** writes the text to **ocr.txt**.
 - **AutoHotKey** checks ocr.txt for the word **Fish**.
-- If found, **AutoHotKey** sends right-clicks to Minecraft.
+- If found, **AutoHotKey** sends right-clicks to **Minecraft**.
 
 ## Change Log
 
