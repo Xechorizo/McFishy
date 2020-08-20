@@ -1,5 +1,5 @@
 
-# McFishy
+# [Download McFishy 1.0](https://github.com/Xechorizo/McFishy/blob/master/McFishy.ahk)
 
 ### Made by Xech
 - Written for Minecraft 1.16.2 Java Edition - Authored August 2020
