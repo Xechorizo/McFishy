@@ -12,7 +12,7 @@
 ### How do I set it up?
 - Download and extract [Capture2Text 3.9](https://versaweb.dl.sourceforge.net/project/capture2text/Capture2Text/Capture2Text_v3.9/Capture2Text_v3.9.zip).
 - Download and install [AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe).
-- Download the [McFishy](https://github.com/Xechorizo/McFishy/blob/dev/McFishy.ahk) script.
+- Download the [McFishy](https://github.com/Xechorizo/McFishy/blob/master/McFishy.ahk) script.
 - Open the script in a text editor, and change the paths for **Capture2Text.exe** and **ocr.txt**. Variable names are **FullC2TPath** and **FullOCRPath**.
 
 ### How do I use it?
