@@ -17,10 +17,10 @@
 - Download and extract [Capture2Text 3.9](https://versaweb.dl.sourceforge.net/project/capture2text/Capture2Text/Capture2Text_v3.9/Capture2Text_v3.9.zip).
 - Download the [McFishy](https://github.com/Xechorizo/McFishy/blob/master/McFishy.ahk) script.
 - Open the script in a text editor, and change the paths for **Capture2Text.exe** and **ocr.txt**. Variable names are **FullC2TPath** and **FullOCRPath**.
+- Ensure **Subtitles** are turned on in **Minecraft** (Options... Accessibility Settings... Show Subtitles: ON).
 
 ### How do I use it?
 - Open **Minecraft 1.16.2** or later.
-- Ensure **Subtitles** are on (Options... Accessibility Settings... Show Subtitles: ON).
 - Run the **McFishy** script. A sound plays when **McFishy** starts.
 - Click on **Minecraft** so it's the active window.
 - **Cast** your rod in [open water](https://minecraft.gamepedia.com/Fishing#Junk_and_treasure).
