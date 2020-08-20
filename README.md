@@ -4,14 +4,17 @@
 ### Made by Xech
 - Written for Minecraft 1.16.2 Java Edition - Authored August 2020
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Q6EZY28VVDGCL&currency_code=USD&source=url)
+
+
 ## Readme
 ### What does it do?
 - This tool uses AutoHotKey (AHK), Tesseract Optical Character Recognition (OCR), and Subtitles in Minecraft to allow AFK fishing after the 1.16 nerf.
 - No redstone is needed, but a Mending fishing rod is recommended.
 
 ### How do I set it up?
-- Download and extract [Capture2Text 3.9](https://versaweb.dl.sourceforge.net/project/capture2text/Capture2Text/Capture2Text_v3.9/Capture2Text_v3.9.zip).
 - Download and install [AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe).
+- Download and extract [Capture2Text 3.9](https://versaweb.dl.sourceforge.net/project/capture2text/Capture2Text/Capture2Text_v3.9/Capture2Text_v3.9.zip).
 - Download the [McFishy](https://github.com/Xechorizo/McFishy/blob/master/McFishy.ahk) script.
 - Open the script in a text editor, and change the paths for **Capture2Text.exe** and **ocr.txt**. Variable names are **FullC2TPath** and **FullOCRPath**.
 
@@ -43,6 +46,7 @@
 - Initial release
 
 #### Future:
+- Nothing yet!
 
 ## Disclosure
 ### *PROVIDED AS-IS WITH NO GUARANTEE EXPRESS OR IMPLIED*
