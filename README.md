@@ -34,7 +34,7 @@
 - Pressing **ALT SHIFT F** runs **Capture2Text.exe**.
 - **Capture2Text.exe** reads text in the dragged box.
 - **Capture2Text.exe** writes the text to ocr.txt.
-- **AutoHotKey** checks ocr.txt for the word ***Fish**.
+- **AutoHotKey** checks ocr.txt for the word **Fish**.
 - If found, **AutoHotKey** sends right-clicks to Minecraft.
 
 ## Change Log
