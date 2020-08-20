@@ -23,7 +23,7 @@
 - Ensure **Subtitles** are on (Options... Accessibility Settings... Show Subtitles: ON).
 - Run the **McFishy** script. A sound plays when **McFishy** starts.
 - Click on **Minecraft** so it's the active window.
-- **Cast** your rod.
+- **Cast** your rod in [open water](https://minecraft.gamepedia.com/Fishing#Junk_and_treasure).
 - Press **ALT SHIFT F** to start OCR. Drag a box around the subtitles area. A sound plays when OCR starts.
 - **IMPORTANT!** The box must be big enough for the subtitle "**Fishing Bobber splashes**" on any line.
 - **IMPORTANT!** The box must not be *too* big, or OCR will be slow and fish can get away.
