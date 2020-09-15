@@ -29,7 +29,7 @@
 - **IMPORTANT!** The box must not be *too* big, or OCR will be slow and fish can get away.
 - Right-click sends to **Minecraft** when OCR reads "**Fish**" in the OCR box, and again after 4.5 seconds to recast.
 - **IMPORTANT!** Subtitles must be visible. Other windows or screensavers covering subtitles will make OCR fail.
-- Press **ALT SHIFT Q** to stop OCR. A sound plays when OCR stops. Sart again with **ALT SHIFT F** if desired.
+- Press **ALT SHIFT Q** to stop OCR. A sound plays when OCR stops. Start again with **ALT SHIFT F** if desired.
 - Press **ALT SHIFT X** to exit **McFishy**. A sound plays when **McFishy** exits.
 
 ### How does it work?
