@@ -10,7 +10,7 @@
 
 ## Readme
 ### What does it do?
-- TAutoHotKey (AHK), Capture2Text Optical Character Recognition (OCR), and Subtitles in Minecraft for AFK fishing despite the 1.16 nerf.
+- AutoHotKey (AHK), Capture2Text Optical Character Recognition (OCR), and Subtitles in Minecraft for AFK fishing despite the 1.16 nerf.
 - No redstone is needed, but a Mending fishing rod is recommended.
 
 ### How do I set it up?
