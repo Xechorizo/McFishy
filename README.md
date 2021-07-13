@@ -3,6 +3,7 @@
 
 ### Made by Xech
 - Written for Minecraft 1.16.2 Java Edition - Authored August 2020
+- Verified working in Minecraft 1.16.5 Java Edition - July 2021
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Q6EZY28VVDGCL&currency_code=USD&source=url)
 
