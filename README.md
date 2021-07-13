@@ -21,7 +21,7 @@
 
 ### How do I use it?
 - Open **Minecraft 1.16.2** or later.
-- Run the **McFishy** script as Administrator. A sound plays when **McFishy** starts.
+- Run the **McFishy** script **as Administrator**. A sound plays when **McFishy** starts.
 - Click on **Minecraft** so it's the active window.
 - **Cast** your rod in [open water](https://minecraft.gamepedia.com/Fishing#Junk_and_treasure).
 - Right-click sends to **Minecraft** when OCR reads "**Fish**" in the OCR box, and again after 4.5 seconds to recast.
