@@ -21,22 +21,22 @@
 
 ### How do I use it?
 - Open **Minecraft 1.16.2** or later.
-- Run the **McFishy** script. A sound plays when **McFishy** starts.
+- Run the **McFishy** script as Administrator. A sound plays when **McFishy** starts.
 - Click on **Minecraft** so it's the active window.
 - **Cast** your rod in [open water](https://minecraft.gamepedia.com/Fishing#Junk_and_treasure).
-- Press **ALT SHIFT F** to start OCR. Drag a box around the subtitles area. A sound plays when OCR starts.
-- **IMPORTANT!** The box must be big enough for the subtitle "**Fishing Bobber splashes**" on any line.
-- **IMPORTANT!** The box must not be *too* big, or OCR will be slow and fish can get away.
 - Right-click sends to **Minecraft** when OCR reads "**Fish**" in the OCR box, and again after 4.5 seconds to recast.
-- **IMPORTANT!** Subtitles must be visible. Other windows or screensavers covering subtitles will make OCR fail.
+- Press **ALT SHIFT F** to start OCR. Drag a box around the subtitles area. A sound plays when OCR starts.
 - Press **ALT SHIFT Q** to stop OCR. A sound plays when OCR stops. Start again with **ALT SHIFT F** if desired.
 - Press **ALT SHIFT X** to exit **McFishy**. A sound plays when **McFishy** exits.
+- **IMPORTANT!** The box must be big enough for the subtitle "**Fishing Bobber splashes**" on any line.
+- **IMPORTANT!** The box must not be *too* big, or OCR will be slow and fish can get away. Focus on the word "**Fish**" when drawing the box.
+- **IMPORTANT!** Can run in background, but **subtitles must be visible**. Other windows or screensavers covering subtitles will make OCR fail.
 
 ### How does it work?
 - **AutoHotKey** listens for hotkeys.
 - **AutoHotKey** then runs **Capture2Text.exe**.
 - **Capture2Text.exe** reads subtitles in the dragged box.
-- **Capture2Text.exe** writes the subtitles to **ocr.txt**.
+- **Capture2Text.exe** writes subtitles to **ocr.txt**.
 - **AutoHotKey** checks **ocr.txt** for the word **Fish**.
 - If found, **AutoHotKey** sends right-clicks to **Minecraft**.
 
